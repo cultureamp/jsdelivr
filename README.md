@@ -1,0 +1,1 @@
+The repo for host vendor.js of performance-ui to jsDelivr
