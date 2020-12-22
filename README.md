@@ -1,1 +1,1 @@
-The repo for host vendor.js of performance-ui to jsDelivr
+This repo is no longer in use and has been superseeded by https://github.com/cultureamp/jsdelivr-files-prod
